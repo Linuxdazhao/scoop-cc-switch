@@ -1,17 +1,17 @@
 {
-    "version": "0.1.18",
+    "version": "0.1.19",
     "description": "A CLI tool for managing multiple Claude API configurations and automatically switching between them",
     "homepage": "https://github.com/Linuxdazhao/cc_auto_switch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Linuxdazhao/cc_auto_switch/releases/download/v0.1.18/cc-switch-x86_64-pc-windows-msvc.zip",
-            "hash": "ae7d924f5fb8a16adc9e331ea1b5539c70ebd0b4077eae827db27ef116f3f23f",
+            "url": "https://github.com/Linuxdazhao/cc_auto_switch/releases/download/v0.1.19/cc-switch-x86_64-pc-windows-msvc.zip",
+            "hash": "b6f79729d8b3eb3c5ef44b5fac5ef051d4333f344bf0d78cb5c955c52979431d",
             "bin": "cc-switch.exe"
         },
         "arm64": {
-            "url": "https://github.com/Linuxdazhao/cc_auto_switch/releases/download/v0.1.18/cc-switch-aarch64-pc-windows-msvc.zip",
-            "hash": "59dfca3c6b3a58699d612336499555b463fbbd303d900e88f1037edf308230a5",
+            "url": "https://github.com/Linuxdazhao/cc_auto_switch/releases/download/v0.1.19/cc-switch-aarch64-pc-windows-msvc.zip",
+            "hash": "6975b1f09724633fdec9955486fe3d0777b31875d84baeebf89bed7cb6cfceba",
             "bin": "cc-switch.exe"
         }
     },
